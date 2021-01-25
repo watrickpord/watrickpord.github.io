@@ -9,4 +9,4 @@ tags: maths animations signals chebyshev
 
 ![T_3 = 4x^3 - 3x](https://raw.githubusercontent.com/watrickpord/MathsAnimations/main/ChebyshevT3.gif)
 
-[Animation code](https://github.com/watrickpord/MathsAnimations/blob/main/ChebyshevAnimated.m)
+The [code](https://github.com/watrickpord/MathsAnimations/blob/main/ChebyshevAnimated.m) for the plots was written in Matlab.
